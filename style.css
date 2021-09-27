@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(31, 6, 122);
+    color: rgb(245, 248, 255);
+}
+.heading:hover{
+    color: white;
+}
+#start, #number_of_objects{
+    font-size: 18px;
+}
+.faiza{
+    border:  2px solid rgb(230, 17, 194);
+    width: 200px;
+    color: rgb(238, 175, 238);
+    background-color: rgb(197, 19, 144);
+}
+.copy_right{
+    position: fixed;
+    color: rgb(255, 196, 4);
+    bottom: 0;
+    width: 100%;
+    background-color: #970909d0;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
